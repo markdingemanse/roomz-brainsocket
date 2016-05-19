@@ -1,5 +1,5 @@
 {
-	"name": "brainboxlabs/brain-socket",
+	"name": "markdingemanse/brain-socket",
 	"type": "library",
 	"description": "Websockets for event-driven Laravel apps.",
 	"keywords": ["websockets","laravel","events","ratchet","artisan"],
